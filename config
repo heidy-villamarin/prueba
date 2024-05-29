@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "arigin"]
+	url = https://github.com/heidy-villamarin/Heidy-Villamarin.git
+	fetch = +refs/heads/*:refs/remotes/arigin/*
+[remote "origin"]
+	url = https://github.com/heidy-villamarin/Heidy-Villamarin.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
